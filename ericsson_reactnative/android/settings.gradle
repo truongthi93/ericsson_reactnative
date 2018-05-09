@@ -1,0 +1,3 @@
+rootProject.name = 'ericsson_reactnative'
+
+include ':app'
